@@ -98,36 +98,36 @@ Matplotlib
 Seaborn
 SciPy
 
-## Repository Contents
-.
-├── Final Poster DA.pdf
-├── Final Power Point DA.pptx
-├── Final Report DA.docx
-├── Gross Domestic Product.csv
-├── Python Notebook Final.ipynb
-└── README.md
 
 ## File Descriptions
 Final Poster DA.pdf
 - Final project poster summarizing the research question, methodology, results, and conclusion.
+
 Final Power Point DA.pptx
 - Final presentation slides used to present the project.
+
 Final Report DA.docx
 - Full written report explaining the project background, methodology, sector analysis, hypothesis testing, results, and conclusion.
+
 Gross Domestic Product.csv
 - Dataset used for the analysis.
+
 Python Notebook Final.ipynb
 - Python notebook containing the data cleaning, visualization, correlation analysis, and hypothesis testing code.
 
 ## How to Run the Notebook
 Clone the repository:
 git clone https://github.com/nadaashrafff/Exploring-the-Association-Between-Upheavals-and-Economic-Sectors-and-GDP-in-Egypt.git
+
 Open the project folder:
 cd Exploring-the-Association-Between-Upheavals-and-Economic-Sectors-and-GDP-in-Egypt
+
 Open the Jupyter Notebook:
 jupyter notebook "Python Notebook Final.ipynb"
+
 Make sure the dataset file is in the same folder:
 Gross Domestic Product.csv
+
 Run the notebook cells in order.
 
 ## Conclusion
